@@ -6,3 +6,7 @@ https://www.smashingmagazine.com/2008/12/50-really-useful-css-tools/
 
 http://easings.net/ru#easeInOutElastic
 http://cubic-bezier.com/#.17,.67,1,-0.68
+
+--------------- UNICOD -------------------
+
+http://www.copypastecharacter.com/
