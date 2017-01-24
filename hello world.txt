@@ -1,3 +1,8 @@
 http://meyerweb.com/eric/tools/css/reset/
 http://www.cssmatic.com/
 https://www.smashingmagazine.com/2008/12/50-really-useful-css-tools/
+
+--------------- ANIMATION ----------------
+
+http://easings.net/ru#easeInOutElastic
+http://cubic-bezier.com/#.17,.67,1,-0.68
